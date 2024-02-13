@@ -10,7 +10,7 @@ project:
   inceptionYear: 2023
   stereotype: cli
   java:
-    version: 11
+    version: 21
     groupId: org.jreleaser.examples
     artifactId: helloworld
     mainClass: org.jreleaser.examples.HelloWorld
